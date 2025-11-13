@@ -46,11 +46,9 @@ The project is structured into a clear, step-by-step workflow:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tomato-disease-detection.git
-cd tomato-disease-detection
+git clone https://github.com/DHRUVRastogi123/Tomato_Early_Blight_Project_2025.git
+cd Tomato_Early_Blight_Porject_2025
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
